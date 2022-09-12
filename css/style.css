@@ -1255,9 +1255,7 @@ path {
   margin-bottom: 1rem;
 }
 
-.card-item .item::after {
-  content: "⟩⟩";
-}
+
 
 .card-item__desctiption {
   line-height: 1.4444444444;
