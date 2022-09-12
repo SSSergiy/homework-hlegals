@@ -809,7 +809,8 @@ body::after {
 }
 
 .servisess .menu__link-servises--activ {
-  border-bottom: 2px solid #ffffff;
+  border-bottom: 2px solid #f0145a;
+  color: #f0145a;
 }
 
 .icon-menu {
